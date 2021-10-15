@@ -50,3 +50,11 @@
 2021-10-15 15:37:01,051 [main] INFO nopCommerce - Login failed
 2021-10-15 15:37:01,104 [main] INFO nopCommerce - Logsout and closes browser
 2021-10-15 15:37:03,677 [main] INFO nopCommerce - Login failed
+2021-10-15 16:20:13,979 [main] INFO nopCommerce - Browser Launched
+2021-10-15 16:20:16,350 [main] INFO nopCommerce - URL Launched
+2021-10-15 16:20:16,522 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 16:20:16,643 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 16:20:21,903 [main] INFO nopCommerce - Login button clicked
+2021-10-15 16:20:22,033 [main] INFO nopCommerce - Login failed
+2021-10-15 16:20:22,047 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 16:20:26,829 [main] INFO nopCommerce - Login failed

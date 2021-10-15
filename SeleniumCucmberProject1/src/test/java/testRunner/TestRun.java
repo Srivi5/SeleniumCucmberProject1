@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 	glue = "stepDefinitions",
 	dryRun = false,
 	monochrome = true,
-	tags = "@test",
+	//tags = "@test",
 	plugin = {"pretty",
 			"html:test-output/index.html"}
 	)
