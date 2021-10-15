@@ -1,0 +1,52 @@
+2021-10-15 13:13:42,112 [main] INFO nopCommerce - URL Launched
+2021-10-15 13:13:42,299 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 13:13:42,407 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 13:13:48,757 [main] INFO nopCommerce - Login button clicked
+2021-10-15 13:13:59,648 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 13:14:08,483 [main] INFO nopCommerce - URL Launched
+2021-10-15 13:14:08,657 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 13:14:08,936 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 13:14:13,906 [main] INFO nopCommerce - Login button clicked
+2021-10-15 13:14:21,529 [main] INFO nopCommerce - URL Launched
+2021-10-15 13:14:21,682 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 13:14:21,787 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 13:14:27,946 [main] INFO nopCommerce - Login button clicked
+2021-10-15 13:14:28,097 [main] INFO nopCommerce - Login failed
+2021-10-15 13:14:28,113 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 13:14:31,895 [main] INFO nopCommerce - Login failed
+2021-10-15 13:14:35,202 [main] INFO nopCommerce - URL Launched
+2021-10-15 13:14:35,361 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 13:14:35,627 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 13:14:40,679 [main] INFO nopCommerce - Login button clicked
+2021-10-15 13:14:40,783 [main] INFO nopCommerce - Login failed
+2021-10-15 13:14:40,795 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 13:14:44,638 [main] INFO nopCommerce - Login failed
+2021-10-15 13:14:51,870 [main] INFO nopCommerce - URL Launched
+2021-10-15 13:14:52,035 [main] INFO nopCommerce - Username 'admin123@yourstore.com' set in the application
+2021-10-15 13:14:52,156 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 13:14:53,696 [main] INFO nopCommerce - Login button clicked
+2021-10-15 13:14:57,949 [main] INFO nopCommerce - Login passed
+2021-10-15 14:56:00,493 [main] INFO nopCommerce - URL Launched
+2021-10-15 14:59:11,092 [main] INFO nopCommerce - URL Launched
+2021-10-15 14:59:11,566 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 14:59:11,723 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 14:59:20,445 [main] INFO nopCommerce - Login button clicked
+2021-10-15 14:59:20,682 [main] INFO nopCommerce - Login failed
+2021-10-15 14:59:20,752 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 14:59:22,470 [main] INFO nopCommerce - Login failed
+2021-10-15 15:11:20,834 [main] INFO nopCommerce - Browser Launched
+2021-10-15 15:11:23,367 [main] INFO nopCommerce - URL Launched
+2021-10-15 15:11:23,618 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 15:11:23,991 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 15:11:31,315 [main] INFO nopCommerce - Login button clicked
+2021-10-15 15:11:31,677 [main] INFO nopCommerce - Login failed
+2021-10-15 15:11:31,696 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 15:11:34,696 [main] INFO nopCommerce - Login failed
+2021-10-15 15:36:45,340 [main] INFO nopCommerce - Browser Launched
+2021-10-15 15:36:47,859 [main] INFO nopCommerce - URL Launched
+2021-10-15 15:36:48,337 [main] INFO nopCommerce - Username 'admin@yourstore.com' set in the application
+2021-10-15 15:36:48,501 [main] INFO nopCommerce - Password 'admin' set in the application
+2021-10-15 15:36:59,983 [main] INFO nopCommerce - Login button clicked
+2021-10-15 15:37:01,051 [main] INFO nopCommerce - Login failed
+2021-10-15 15:37:01,104 [main] INFO nopCommerce - Logsout and closes browser
+2021-10-15 15:37:03,677 [main] INFO nopCommerce - Login failed
